@@ -13,7 +13,7 @@ function Home() {
       }} src={nike} alt="nike shoe" />
       <div style={{position: 'absolute', top:'1%',left:'37%',color:'yellowgreen'}}>
         <h1>Welcome To Shoe Palace</h1>
-        <h3>House Of Shoes</h3>
+        <h3>30% OFF</h3>
       </div>
 
 
